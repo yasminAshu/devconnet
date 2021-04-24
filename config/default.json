@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://taskapp:66XYqiqi0pcwzKaa@cluster0.bcsfm.mongodb.net/test?retryWrites=true&w=majority"
+}
